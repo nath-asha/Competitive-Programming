@@ -1,2 +1,2 @@
 # Competitive-Programming
-Source of various problem statements
+Source code of various problem statements
